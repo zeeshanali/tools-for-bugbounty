@@ -20,3 +20,6 @@ https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-t
 https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi2rce-via-php-filters
 
 https://github.com/synacktiv/php_filter_chain_generator
+
+**A fast web fuzzer written in Go.**
+https://github.com/ffuf/ffuf
