@@ -13,7 +13,7 @@ https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 https://github.com/arthaud/git-dumper
 
-Php Filter chain
+**Php Filter chain**
 
 https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it.html
 
