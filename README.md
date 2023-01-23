@@ -8,3 +8,7 @@ https://gtfobins.github.io/
 **Pentest monkey's reverse shell cheat sheet**
 
 https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+**A tool to dump a git repository from a website.**
+
+https://github.com/arthaud/git-dumper
