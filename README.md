@@ -23,3 +23,8 @@ https://github.com/synacktiv/php_filter_chain_generator
 
 **A fast web fuzzer written in Go.**
 https://github.com/ffuf/ffuf
+
+**Ghidra for decompile**
+
+https://ghidra-sre.org/
+
