@@ -28,3 +28,6 @@ https://github.com/ffuf/ffuf
 
 https://ghidra-sre.org/
 
+**
+Process linux processes without root**
+https://github.com/DominicBreuker/pspy
