@@ -30,4 +30,11 @@ https://ghidra-sre.org/
 
 **
 Process linux processes without root**
+
 https://github.com/DominicBreuker/pspy
+
+
+**
+Linux Privilage escation auditing tool**
+
+https://github.com/The-Z-Labs/linux-exploit-suggester
